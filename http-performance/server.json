@@ -11,10 +11,18 @@
       {
          "id": 2,
          "description": "Hamburguer",
-         "type": "outincome",
+         "type": "outcome",
          "category": "Alimentação",
          "price": 59.00,
          "createdAt": "2022-04-10T17:13:56.369Z"
+      },
+      {
+         "id": 3,
+         "description": "Conta de Internet",
+         "type": "outcome",
+         "category": "Serviço",
+         "price": 99.00,
+         "createdAt": "2025-07-30T21:13:56.369Z"
       }
    ]
 }
