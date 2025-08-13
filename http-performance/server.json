@@ -1,28 +1,76 @@
 {
-   "transactions": [
-      {
-         "id": 1,
-         "description": "Desenvolvimento de site",
-         "type": "income",
-         "category": "Venda",
-         "price": 12000,
-         "createdAt": "2025-07-20T17:13:56.369Z"
-      },
-      {
-         "id": 2,
-         "description": "Hamburguer",
-         "type": "outcome",
-         "category": "Alimentação",
-         "price": 59.00,
-         "createdAt": "2022-04-10T17:13:56.369Z"
-      },
-      {
-         "id": 3,
-         "description": "Conta de Internet",
-         "type": "outcome",
-         "category": "Serviço",
-         "price": 99.00,
-         "createdAt": "2025-07-30T21:13:56.369Z"
-      }
-   ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2025-07-20T17:13:56.369Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2022-04-10T17:13:56.369Z"
+    },
+    {
+      "id": 3,
+      "description": "Conta de Internet",
+      "type": "outcome",
+      "category": "Serviço",
+      "price": 99,
+      "createdAt": "2025-07-30T21:13:56.369Z"
+    },
+    {
+      "description": "gsfdg",
+      "price": 4,
+      "category": "Teste",
+      "type": "income",
+      "createdAt": "2025-08-13T13:51:37.235Z",
+      "id": 4
+    },
+    {
+      "description": "Energia",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 150,
+      "createdAt": "2025-08-13T13:54:18.618Z",
+      "id": 5
+    },
+    {
+      "description": "Peça de carro",
+      "type": "outcome",
+      "category": "Manutenção",
+      "price": 500,
+      "createdAt": "2025-08-13T13:58:43.689Z",
+      "id": 6
+    },
+    {
+      "description": "Computador novo",
+      "type": "outcome",
+      "category": "Compras",
+      "price": 10000,
+      "createdAt": "2025-08-13T14:18:18.504Z",
+      "id": 7
+    },
+    {
+      "description": "tete",
+      "type": "income",
+      "category": "teste",
+      "price": 12,
+      "createdAt": "2025-08-13T14:19:31.380Z",
+      "id": 8
+    },
+    {
+      "description": "Energia",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 3,
+      "createdAt": "2025-08-13T14:19:43.940Z",
+      "id": 9
+    }
+  ]
 }
